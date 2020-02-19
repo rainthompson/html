@@ -1,0 +1,24 @@
+1. What is the first thing that draws your focus?
+   A.(good site) Amazon- All the big items and the pages you can click on 
+   B.(good site) W3Schools - All the tutorials on the side
+   C.(good site) GitHub- The tool bar
+   D.(bad site) Instagram - The big pitcures on the left side
+
+2. How many menu items are on the home page? How many submenu items for each one of those?
+    A. 22, to many to count
+    B. 7, 6
+    C. 7, about 4
+    D. 5, not many
+
+3. When searching for something specific, how easy or difficult is it?
+ Pick something to search for such as a specific post that you remember from a friend if it is social media, 
+ a particular product on retail sites or a particular article. Count the number of mouse clicks before you arrive at what you are looking for.
+
+    B. Really easy! 2 clicks
+
+4. List something you like about each site that you would like to learn how to emulate when you start creating your own sites.
+ This can be an animation, user control, format, etc.
+    A. How to get the all the pages posted in such a neat order when it has multiple sellers
+    B. How when hover over something it gets dark
+    C. how your repositories are on the left hand side
+    D. the minimalistic approach the site has
