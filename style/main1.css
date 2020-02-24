@@ -1,0 +1,12 @@
+header{
+    background-image: url("../images/wavy\ lines.jpg");
+    height: 100px;
+}
+footer{
+    background-image: url("../images/wavy\ lines.jpg");
+    height: 55px;
+}
+
+footer em, strong{
+    background: white;
+}
